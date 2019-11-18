@@ -1,3 +1,7 @@
+### 阿里、腾讯、字节跳动等等大厂面试经验总结
+
+#### 阿里
+
 - [【面小易-面经01】阿里巴巴Java开发工程师面试总结](https://developer.aliyun.com/article/715119?spm=a2c6h.12873581.0.0.71dc36780xqVDl&groupCode=interview)
 - [【面小易-面经02】蚂蚁金服Java开发工程师面试总结](https://developer.aliyun.com/article/715236?spm=a2c6h.12873581.0.0.71dc36780xqVDl&groupCode=interview)
 - [【面小易-面经03】阿里巴巴C++研发实习生面试经验总结](https://developer.aliyun.com/article/715766?spm=a2c6h.12873581.0.0.71dc36780xqVDl&groupCode=interview)
@@ -15,3 +19,31 @@
 - []()
 - []()
 - []()
+
+
+#### 腾讯
+
+
+
+#### 字节跳动
+
+
+
+#### 京东
+
+
+
+#### 美团
+
+
+
+#### 华为
+
+
+#### 百度
+
+
+#### 小米
+
+
+
